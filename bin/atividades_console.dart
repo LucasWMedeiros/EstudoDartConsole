@@ -105,7 +105,7 @@ void main(List<String> arguments) {
         while (validacao == true) {
           Assentos assento = new Assentos();
           assentosTotal.add(assento);
-          for (int i = 1; i < 25; i++) {
+          for (int i = 1; i < 21; i++) {
             assento.setId(i);
             assento.setVago(false);
             assentosTotal.add(assento);
