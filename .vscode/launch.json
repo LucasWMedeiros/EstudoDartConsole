@@ -5,8 +5,9 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "console": "externalTerminal",
-            "name": "atividades_console",
+            "console": "terminal",
+            "name": "EstudoDartConsole",
+            "cwd": "EstudoDartConsole",
             "request": "launch",
             "type": "dart"
         }
