@@ -113,7 +113,7 @@ void main(List<String> arguments) {
 
           aviao.setList(assentosTotal);
           print('Qual operação você deseja realizar?');
-          print('1 - Verificar se a assentos vagos');
+          print('1 - Verificar se há assentos vagos');
           print('2 - Reservar assento');
           print('3 - Cancelar reserva');
           print('4 - Sair');
